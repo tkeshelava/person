@@ -1,0 +1,6 @@
+using PersonManagement.Domain.Enums;
+
+namespace PersonManagment.Application.Features.Queries.GetPersonList;
+
+public record PersonListDto(int Id, string FirstName, string LastName, Gender Gender, string PersonalN, DateTime BirthDate,
+    int CityId, string City);

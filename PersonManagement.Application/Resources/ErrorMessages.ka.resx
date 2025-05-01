@@ -1,0 +1,53 @@
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="PersonNotFound" xml:space="preserve">
+        <value>პიროვნება ვერ მოიძებნა</value>
+    </data>
+    <data name="IdShouldBeGreaterThanZero" xml:space="preserve">
+        <value>Id უნდა იყოს 0ზე მეტი</value>
+    </data>
+    <data name="FirstNameValidation" xml:space="preserve">
+        <value>სახელი უნდა იყოს მინ 2 მაქს 50 სიგრძის, მხოლოდ ქართული ან ლათინური ასოები</value>
+    </data>
+    <data name="InvalidGender" xml:space="preserve">
+        <value>სქესი უნდა იყოს ჩამოთვლილი კატეგორიებიდან</value>
+    </data>
+    <data name="LastNameValidation" xml:space="preserve">
+        <value>გვარი უნდა იყოს მინ 2 მაქს 50 სიგრძის, მხოლოდ ქართული ან ლათინური ასოები</value>
+    </data>
+    <data name="PersonalNumberValidation" xml:space="preserve">
+        <value>პირადი ნომერი უნდა იყოს 11 სიმბოლოსგან შემდგარი</value>
+    </data>
+    <data name="MinimumAge" xml:space="preserve">
+        <value>ასაკი უნდა იყოს 18 წელზე მეტი</value>
+    </data>
+    <data name="PhoneNumberValidation" xml:space="preserve">
+        <value>ტელეფონის ნომრები უნდა იყოს </value>
+    </data>
+    <data name="InvalidPhoneType" xml:space="preserve">
+        <value>ტელეფონის ნომრის ტიპი არასწორია</value>
+    </data>
+    <data name="ImageFileSizeExceeded" xml:space="preserve">
+        <value>ფოტოს ზომა არასწორია </value>
+    </data>
+    <data name="ImageFileRequired" xml:space="preserve">
+        <value>ფოტო სავალდებულოა</value>
+    </data>
+    <data name="InvalidImageFileType" xml:space="preserve">
+        <value>არასწორი ფოტოს ტიპი</value>
+    </data>
+    <data name="IncorrectConnectionType" xml:space="preserve">
+        <value>არასწორი კავშირის ტიპი</value>
+    </data>
+</root>
